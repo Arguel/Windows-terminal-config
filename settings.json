@@ -35,17 +35,17 @@
                 // Make changes here to the powershell.exe profile.
                 "guid": "{guid1}",
                 "name": "EXAMPLENAME",
-		"commandline": "powershell.exe -NoLogo -NoExit",
-		"hidden": false,
-		"colorScheme": "Argonaut",
-		"fontFace": "LiterationMono Nerd Font",
-		"fontSize": 9,
-		"icon": "C:\\PATH\\TO\\YOUR\\ICON",
-		"backgroundImage": "C:\\PATH\\TO\\YOUR\\BACKGROUNDIMAGE",
-		"backgroundImageOpacity": 0.2,
-		"acrylicOpacity": 2,
-		"useAcrylic": true,
-		"startingDirectory": "C:\\PATH\\TO\\YOUR\\STARTINGDIRECTORY"
+			    "commandline": "powershell.exe -NoLogo -NoExit",
+			    "hidden": false,
+			    "colorScheme": "Argonaut",
+			    "fontFace": "LiterationMono Nerd Font",
+			    "fontSize": 9,
+			    "icon": "C:\\PATH\\TO\\YOUR\\ICON",
+			    "backgroundImage": "C:\\PATH\\TO\\YOUR\\BACKGROUNDIMAGE",
+			    "backgroundImageOpacity": 0.2,
+			    "acrylicOpacity": 2,
+			    "useAcrylic": true,
+			    "startingDirectory": "C:\\PATH\\TO\\YOUR\\STARTINGDIRECTORY"
             },
             {
                 // Make changes here to the cmd.exe profile.

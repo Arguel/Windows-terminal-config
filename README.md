@@ -21,6 +21,7 @@ Install-Module oh-my-posh -Scope CurrentUser</pre>
 Now you have to enter the configuration file of windows terminal. The easiest way is opening it from the menu 
 <p align="center"><img src="https://i.imgur.com/5jrdSVG.png"></p>
 or if that doesn't work you can try going to this route (which is probably not the same)
+
 <pre>C:\Users\ttuna\AppData\Local\Packages\Microsoft.WindowsTerminal_8wekyb3d8bbwe\LocalState</pre>
 Now what remains would be to replace certain fields with your custom settings
 

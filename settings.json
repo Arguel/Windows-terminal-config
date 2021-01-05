@@ -28,6 +28,7 @@
         "defaults":
         {
             // Put settings here that you want to apply to all profiles.
+		"cursorColor": "#FF00FF"
         },
         "list":
         [

@@ -58,7 +58,7 @@ that would have to open a window, then follow the next steps (sorry if it's in s
 <p align="left"><img src="https://i.imgur.com/SjkibiD.png"></p>
 
 ### My configuration
-Personally most of the time I use the terminal with [vim](https://www.vim.org/), that's why I have some changed keyboard shortcuts, you can configure your own in the [settings.json](https://github.com/Arguel/windows-terminal-config/blob/main/settings.json) file to get the maximum potential from the terminal, more info [here](https://aka.ms/terminal-keybindings), mine are the following:
+Personally most of the time I use the terminal with [vim](https://www.vim.org/), that's why I have some changed keyboard shortcuts, you can configure your own in the [settings.json](https://github.com/enzoarguello512/windows-terminal-config/blob/main/settings.json) file to get the maximum potential from the terminal, more info [here](https://aka.ms/terminal-keybindings), mine are the following:
 
 * Ctrl+Shift+C to copy
 
